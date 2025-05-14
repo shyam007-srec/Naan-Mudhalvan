@@ -1,2 +1,2 @@
-# Naan-Mudhalvan
-naan mudhalvan source code
+# Naan-Mudhalvan Project Source Code
+Structural Health Monitoring (SHM) System
